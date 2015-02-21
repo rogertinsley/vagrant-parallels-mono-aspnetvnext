@@ -1,2 +1,2 @@
 # vagrant-parallels-mono-aspnetvnext
-A vagrant file to run an ASP.NET VNEXT on mono using vagrant-parallels provider on OS X
+A vagrant box for ASP.NET VNEXT & mono running on the vagrant-parallels provider
